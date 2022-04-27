@@ -1,4 +1,14 @@
-.App {
+.App2 {
   font-family: sans-serif;
   text-align: center;
+}
+
+p {
+  width: 100%;
+  background-color: bisque;
+  /* text-align: center; */
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  /* word-break: break-all; */
 }

@@ -34,7 +34,7 @@ function Users() {
   });
 
   const fetchUsers = async () => {
-    dispatch({ type: "LOADING" });
+    // dispatch({ type: "LOADING" });
     try {
       console.log("다시불러옴");
       const response = await axios.get(
